@@ -7,7 +7,7 @@
 - 🏦 I'm currently working as a Frontend Developer @ Venturus.
 - 🤞 My focus is to become a fullstack developer in a near future.
 - 💬 Talk to me about Soccer, Formula One and Counter-Strike. 
-- ⚡ Fun fact: I'm passionate about building an computer and hardware in general, so you can ask me for recommendations about wich CPU you want in your new setup 🤙
+- ⚡ Fun fact: I'm passionate about building an computer and hardware in general, so you can ask me for recommendations about which CPU you want in your new setup 🤙
 
 ### 👨‍💻 My main technologies are:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
