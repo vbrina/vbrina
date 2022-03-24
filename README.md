@@ -3,8 +3,8 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 ### 🤵 About me:
 
-- 👨‍🎓 I'm in the last period of graduating as a Computer Engineer.
-- 🏦 I'm currently working as a Frontend Developer @ Venturus.
+- 👨‍🎓 I'm graduated as a Computer Engineer.
+- 🏦 I'm currently a Frontend Developer @ Venturus.
 - 🤞 My focus is to become specialist in frontend development in a near future.
 - 💬 Talk to me about Soccer, Formula One and Counter-Strike. 
 - ⚡ Fun fact: I'm passionate about building an computer and hardware in general, so you can ask me for recommendations about which CPU you want in your new setup 🤙
