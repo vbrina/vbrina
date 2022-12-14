@@ -7,20 +7,11 @@
 - 🏦 I'm currently a Frontend Developer @ Venturus.
 - 🤞 My focus is to become specialist in frontend development in a near future.
 - 💬 Talk to me about Soccer, Formula One and Counter-Strike. 
-- ⚡ Fun fact: I'm passionate about building an computer and hardware in general, so you can ask me for recommendations about which CPU you want in your new setup 🤙
+- ⚡ Fun fact: I'm passionate about building computers and hardware in general, so you can ask me for recommendations about which CPU you should use in your new setup 🤙
 
-### 👨‍💻 My main technologies are:
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-
-### 🤘 What I am studying:
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-
-### 🌱 What I want to study:
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+### 👨‍💻 My main skills are:
+<img src="https://img.shields.io/badge/HTML-593D88?style=for-the-badge&logo=Html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-CC6699?style=for-the-badge&logo=Css3&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Design%20System-red?style=for-the-badge&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/Microfrontend-CC6699?style=for-the-badge&logo=react&logoColor=white" />
 
 ### 🖥 Where you can find me: 
 
 <a href="https://www.linkedin.com/in/vitor-petruz-brina/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/vbrina_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/vbrina_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/vitoorbrina/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
